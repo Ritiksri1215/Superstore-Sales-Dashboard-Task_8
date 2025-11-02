@@ -1,7 +1,8 @@
 # Superstore-Sales-Dashboard-Task_8
 
 Super Store Sales Dashboard – Power BI Project
-📌 Objective
+
+Objective:
 
 The goal of this project was to create a simple interactive sales dashboard that visualizes key performance metrics such as sales, profit, quantity, and category trends over time and across regions.
 
@@ -13,7 +14,7 @@ Microsoft Excel / CSV Dataset (Superstore_Sales.csv) – for data source
 
 (Optional) Python (Pandas) – for basic data cleaning and preprocessing
 
-📂 Dataset Description
+Dataset Description:
 
 Dataset Name: Superstore_Sales.csv
 Columns Used:
@@ -28,7 +29,7 @@ Sales
 
 Profit
 
-📊 Dashboard Features
+Dashboard Features:
 
 The dashboard includes:
 
@@ -42,7 +43,7 @@ KPI Cards: Total Sales, Profit, Quantity
 
 Filter/Slicer: Allows selection by Region or Category
 
-💡 Insights
+Insights:
 
 West Region recorded the highest sales performance overall.
 
